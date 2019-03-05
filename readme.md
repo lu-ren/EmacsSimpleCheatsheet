@@ -38,6 +38,8 @@
 `C-x 4 C-f `- find another file in other window. <br/>
 `C-x 3 `- vertical split <br/>
 `C-x-2` - horizontal split <br/>
+`C-x-o` - other window <br/>
+`C-x-0` - get rid of current window <br/>
 
 ## FRAMES
 `M-x make-frame` - create another frame <br/>
